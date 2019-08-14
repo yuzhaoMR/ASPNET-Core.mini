@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="App.csproj" t="IncludeRecursive" />
+      <e p="App.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="HttpContext" t="Include">
+        <e p="FeatureCollection.cs" t="Include" />
+        <e p="Features.cs" t="Include" />
+        <e p="HttpContext.cs" t="Include" />
+        <e p="HttpListenerFeature.cs" t="Include" />
+      </e>
+      <e p="Middleware" t="Include">
+        <e p="Middleware.cs" t="Include" />
+        <e p="RequestDelegate.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="App.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Server" t="Include">
+        <e p="HttpListenerServer.cs" t="Include" />
+        <e p="IServer.cs" t="Include" />
+      </e>
+      <e p="WebHost" t="Include">
+        <e p="ApplicationBuilder.cs" t="Include" />
+        <e p="WebHost.cs" t="Include" />
+        <e p="WebHostBuilder.cs" t="Include" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_App.1994845504.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad2f73f9-c984-4fe3-bbdd-7c8fc184d1d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HttpContext/FeatureCollection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="18" column="16" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <marker date="1565766865989" expanded="false" signature="6:47" ph="..." />
+                <marker date="1565766865989" expanded="true" signature="74:648" ph="{...}" />
+                <marker date="1565766865989" expanded="true" signature="144:156" ph="{...}" />
+                <marker date="1565766865989" expanded="true" signature="239:251" ph="{...}" />
+                <marker date="1565766865989" expanded="true" signature="295:646" ph="{...}" />
+                <marker date="1565766865989" expanded="true" signature="548:640" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebHost/WebHost.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <marker date="1565775929426" expanded="true" signature="6:69" ph="..." />
+                <marker date="1565775929426" expanded="true" signature="92:505" ph="{...}" />
+                <marker date="1565775929426" expanded="true" signature="124:156" ph="{...}" />
+                <marker date="1565775929426" expanded="true" signature="193:503" ph="{...}" />
+                <marker date="1565775929426" expanded="true" signature="357:439" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebHost/WebHostBuilder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="41" column="9" selection-end-line="43" selection-end-column="1" />
+              <folding>
+                <marker date="1565775232451" expanded="false" signature="6:65" ph="..." />
+                <marker date="1565775232451" expanded="true" signature="88:1098" ph="{...}" />
+                <marker date="1565775232451" expanded="true" signature="127:308" ph="{...}" />
+                <marker date="1565775232451" expanded="true" signature="359:1096" ph="{...}" />
+                <marker date="1565775232451" expanded="true" signature="593:678" ph="{...}" />
+                <marker date="1565775232451" expanded="true" signature="736:811" ph="{...}" />
+                <marker date="1565775232451" expanded="true" signature="844:1090" ph="{...}" />
+                <marker date="1565775232451" expanded="true" signature="957:1021" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server/IServer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <marker date="1565695252478" expanded="true" signature="6:51" ph="..." />
+                <marker date="1565695252478" expanded="true" signature="73:166" ph="{...}" />
+                <marker date="1565695252478" expanded="true" signature="104:164" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HttpContext/Features.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <marker date="1565695252473" expanded="false" signature="6:68" ph="..." />
+                <marker date="1565695252473" expanded="true" signature="95:453" ph="{...}" />
+                <marker date="1565695252473" expanded="true" signature="138:267" ph="{...}" />
+                <marker date="1565695252473" expanded="true" signature="310:451" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebHost/ApplicationBuilder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-118">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <marker date="1565774185604" expanded="false" signature="6:99" ph="..." />
+                <marker date="1565774185604" expanded="true" signature="122:1213" ph="{...}" />
+                <marker date="1565774185604" expanded="true" signature="165:295" ph="{...}" />
+                <marker date="1565774185604" expanded="true" signature="354:1211" ph="{...}" />
+                <marker date="1565774185604" expanded="true" signature="549:1027" ph="{...}" />
+                <marker date="1565774185604" expanded="true" signature="642:1016" ph="{...}" />
+                <marker date="1565774185604" expanded="true" signature="704:819" ph="{...}" />
+                <marker date="1565774185604" expanded="true" signature="878:959" ph="{...}" />
+                <marker date="1565774185604" expanded="true" signature="1118:1205" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HttpContext/HttpContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <marker date="1565766544383" expanded="true" signature="6:117" ph="..." />
+                <marker date="1565766544383" expanded="true" signature="144:1599" ph="{...}" />
+                <marker date="1565766544383" expanded="true" signature="175:454" ph="{...}" />
+                <marker date="1565766544383" expanded="true" signature="328:448" ph="{...}" />
+                <marker date="1565766544383" expanded="true" signature="484:843" ph="{...}" />
+                <marker date="1565766544383" expanded="true" signature="874:1308" ph="{...}" />
+                <marker date="1565766544383" expanded="true" signature="1194:1302" ph="{...}" />
+                <marker date="1565766544383" expanded="true" signature="1352:1597" ph="{...}" />
+                <marker date="1565766544383" expanded="true" signature="1441:1591" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HttpContext/HttpListenerFeature.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <marker date="1565695252316" expanded="false" signature="6:86" ph="..." />
+                <marker date="1565695252316" expanded="true" signature="113:911" ph="{...}" />
+                <marker date="1565695252316" expanded="true" signature="196:909" ph="{...}" />
+                <marker date="1565695252316" expanded="true" signature="777:903" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E8EA881D-180F-47E2-97CC-70E538FFC364/9d/731fb82c/HttpListener.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="312" column="37" selection-start-line="312" selection-start-column="37" selection-end-line="312" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Server/HttpListenerServer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <marker date="1565776465097" expanded="true" signature="6:144" ph="..." />
+                <marker date="1565776465097" expanded="true" signature="166:1689" ph="{...}" />
+                <marker date="1565776465097" expanded="true" signature="214:1469" ph="{...}" />
+                <marker date="1565776465097" expanded="true" signature="371:513" ph="{...}" />
+                <marker date="1565776465097" expanded="true" signature="574:1463" ph="{...}" />
+                <marker date="1565776465097" expanded="true" signature="715:782" ph="{...}" />
+                <marker date="1565776465097" expanded="true" signature="908:1453" ph="{...}" />
+                <marker date="1565776465097" expanded="true" signature="1505:1687" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+      <find>httpContext</find>
+      <find>Configure</find>
+      <find>ApplicationBuilder</find>
+      <find>HttpListenerFeature</find>
+      <find>_configures</find>
+      <find>UseServer</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebHost/WebHostBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E8EA881D-180F-47E2-97CC-70E538FFC364/9d/731fb82c/HttpListener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/HttpListenerServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HttpContext/HttpListenerFeature.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HttpContext/FeatureCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HttpContext/Features.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5486B0B5-95C6-4BBE-8EDA-415056DF068B/4c/38db1e5c/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebHost/ApplicationBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Middleware/RequestDelegate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Server/IServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HttpContext/HttpContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35A6C874-B6CE-4414-81A4-471E07DBED89/6a/af81d1e3/NameValueCollection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebHost/WebHost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E8EA881D-180F-47E2-97CC-70E538FFC364/30/bb6e1b6d/HttpListenerContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Middleware/Middleware.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Middleware.cs" />
+        <option value="$PROJECT_DIR$/App_netcore2/Program.cs" />
+        <option value="$PROJECT_DIR$/HttpListenerFeature.cs" />
+        <option value="$PROJECT_DIR$/ApplicationBuilder.cs" />
+        <option value="$PROJECT_DIR$/WebHostBuilder.cs" />
+        <option value="$PROJECT_DIR$/WebHost.cs" />
+        <option value="$PROJECT_DIR$/IServer.cs" />
+        <option value="$PROJECT_DIR$/HttpListenerServer.cs" />
+        <option value="$PROJECT_DIR$/HttpContext.cs" />
+        <option value="$PROJECT_DIR$/Features.cs" />
+        <option value="$PROJECT_DIR$/FeatureCollection.cs" />
+        <option value="$PROJECT_DIR$/Server/IServer.cs" />
+        <option value="$PROJECT_DIR$/HttpContext/HttpContext.cs" />
+        <option value="$PROJECT_DIR$/HttpContext/FeatureCollection.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Middleware/RequestDelegate.cs" />
+        <option value="$PROJECT_DIR$/WebHost/ApplicationBuilder.cs" />
+        <option value="$PROJECT_DIR$/WebHost/WebHostBuilder.cs" />
+        <option value="$PROJECT_DIR$/WebHost/WebHost.cs" />
+        <option value="$PROJECT_DIR$/Server/HttpListenerServer.cs" />
+        <option value="$PROJECT_DIR$/Middleware/Middleware.cs" />
+        <option value="$PROJECT_DIR$/HttpContext/Features.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="HttpContext" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Middleware" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Server" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WebHost" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.App">
+    <configuration name="App" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/App.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/App.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad2f73f9-c984-4fe3-bbdd-7c8fc184d1d1" name="Default Changelist" comment="" />
+      <created>1565602864574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565602864574</updated>
+      <workItem from="1565602865915" duration="19481000" />
+      <workItem from="1565784080892" duration="7524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27005000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19348894" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969433" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969433" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995633" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32969433" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32969433" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Server/HttpListenerServer.cs</url>
+          <line>36</line>
+          <properties documentPath="$PROJECT_DIR$/Server/HttpListenerServer.cs" initialLine="36">
+            <startOffsets>
+              <option value="1088" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1238" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5486B0B5-95C6-4BBE-8EDA-415056DF068B/4c/38db1e5c/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="672" column="16" selection-start-line="672" selection-start-column="16" selection-end-line="672" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App_netcore2/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/App_netcore2/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/launchSettings.json" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35A6C874-B6CE-4414-81A4-471E07DBED89/6a/af81d1e3/NameValueCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="11" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1565771751482" expanded="true" signature="6:66" ph="..." />
+            <marker date="1565771751482" expanded="true" signature="81:676" ph="{...}" />
+            <marker date="1565771751482" expanded="true" signature="115:674" ph="{...}" />
+            <marker date="1565771751482" expanded="true" signature="174:284" ph="{...}" />
+            <marker date="1565771751482" expanded="true" signature="347:668" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Middleware/RequestDelegate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1565695252456" expanded="true" signature="55:134" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E8EA881D-180F-47E2-97CC-70E538FFC364/30/bb6e1b6d/HttpListenerContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Middleware/Middleware.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="14" lean-forward="true" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1565785137646" expanded="true" signature="48:701" ph="{...}" />
+            <marker date="1565785137646" expanded="true" signature="85:699" ph="{...}" />
+            <marker date="1565785137646" expanded="true" signature="210:322" ph="{...}" />
+            <marker date="1565785137646" expanded="true" signature="443:555" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpContext/Features.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <marker date="1565695252473" expanded="false" signature="6:68" ph="..." />
+            <marker date="1565695252473" expanded="true" signature="95:453" ph="{...}" />
+            <marker date="1565695252473" expanded="true" signature="138:267" ph="{...}" />
+            <marker date="1565695252473" expanded="true" signature="310:451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E8EA881D-180F-47E2-97CC-70E538FFC364/9d/731fb82c/HttpListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="312" column="37" selection-start-line="312" selection-start-column="37" selection-end-line="312" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpContext/HttpContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <marker date="1565766544383" expanded="true" signature="6:117" ph="..." />
+            <marker date="1565766544383" expanded="true" signature="144:1599" ph="{...}" />
+            <marker date="1565766544383" expanded="true" signature="175:454" ph="{...}" />
+            <marker date="1565766544383" expanded="true" signature="328:448" ph="{...}" />
+            <marker date="1565766544383" expanded="true" signature="484:843" ph="{...}" />
+            <marker date="1565766544383" expanded="true" signature="874:1308" ph="{...}" />
+            <marker date="1565766544383" expanded="true" signature="1194:1302" ph="{...}" />
+            <marker date="1565766544383" expanded="true" signature="1352:1597" ph="{...}" />
+            <marker date="1565766544383" expanded="true" signature="1441:1591" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpContext/FeatureCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="18" column="16" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1565766865989" expanded="false" signature="6:47" ph="..." />
+            <marker date="1565766865989" expanded="true" signature="74:648" ph="{...}" />
+            <marker date="1565766865989" expanded="true" signature="144:156" ph="{...}" />
+            <marker date="1565766865989" expanded="true" signature="239:251" ph="{...}" />
+            <marker date="1565766865989" expanded="true" signature="295:646" ph="{...}" />
+            <marker date="1565766865989" expanded="true" signature="548:640" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebHost/ApplicationBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1565774185604" expanded="false" signature="6:99" ph="..." />
+            <marker date="1565774185604" expanded="true" signature="122:1213" ph="{...}" />
+            <marker date="1565774185604" expanded="true" signature="165:295" ph="{...}" />
+            <marker date="1565774185604" expanded="true" signature="354:1211" ph="{...}" />
+            <marker date="1565774185604" expanded="true" signature="549:1027" ph="{...}" />
+            <marker date="1565774185604" expanded="true" signature="642:1016" ph="{...}" />
+            <marker date="1565774185604" expanded="true" signature="704:819" ph="{...}" />
+            <marker date="1565774185604" expanded="true" signature="878:959" ph="{...}" />
+            <marker date="1565774185604" expanded="true" signature="1118:1205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebHost/WebHost.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <marker date="1565775929426" expanded="true" signature="6:69" ph="..." />
+            <marker date="1565775929426" expanded="true" signature="92:505" ph="{...}" />
+            <marker date="1565775929426" expanded="true" signature="124:156" ph="{...}" />
+            <marker date="1565775929426" expanded="true" signature="193:503" ph="{...}" />
+            <marker date="1565775929426" expanded="true" signature="357:439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebHost/WebHostBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="41" column="9" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1565775232451" expanded="false" signature="6:65" ph="..." />
+            <marker date="1565775232451" expanded="true" signature="88:1098" ph="{...}" />
+            <marker date="1565775232451" expanded="true" signature="127:308" ph="{...}" />
+            <marker date="1565775232451" expanded="true" signature="359:1096" ph="{...}" />
+            <marker date="1565775232451" expanded="true" signature="593:678" ph="{...}" />
+            <marker date="1565775232451" expanded="true" signature="736:811" ph="{...}" />
+            <marker date="1565775232451" expanded="true" signature="844:1090" ph="{...}" />
+            <marker date="1565775232451" expanded="true" signature="957:1021" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/IServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <marker date="1565695252478" expanded="true" signature="6:51" ph="..." />
+            <marker date="1565695252478" expanded="true" signature="73:166" ph="{...}" />
+            <marker date="1565695252478" expanded="true" signature="104:164" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpContext/HttpListenerFeature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1565695252316" expanded="false" signature="6:86" ph="..." />
+            <marker date="1565695252316" expanded="true" signature="113:911" ph="{...}" />
+            <marker date="1565695252316" expanded="true" signature="196:909" ph="{...}" />
+            <marker date="1565695252316" expanded="true" signature="777:903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/HttpListenerServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <marker date="1565776465097" expanded="true" signature="6:144" ph="..." />
+            <marker date="1565776465097" expanded="true" signature="166:1689" ph="{...}" />
+            <marker date="1565776465097" expanded="true" signature="214:1469" ph="{...}" />
+            <marker date="1565776465097" expanded="true" signature="371:513" ph="{...}" />
+            <marker date="1565776465097" expanded="true" signature="574:1463" ph="{...}" />
+            <marker date="1565776465097" expanded="true" signature="715:782" ph="{...}" />
+            <marker date="1565776465097" expanded="true" signature="908:1453" ph="{...}" />
+            <marker date="1565776465097" expanded="true" signature="1505:1687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
